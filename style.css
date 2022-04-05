@@ -1,0 +1,10 @@
+a {
+    text-decoration: none;
+    color:white;
+}
+
+.first-header {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(13, 13, 150);
+}
